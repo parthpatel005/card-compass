@@ -36,6 +36,14 @@ yarn-error.log*
 # vercel
 .vercel
 
+# local db
+*.db
+*.db-shm
+*.db-wal
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# credit card statements
+/card-statements
