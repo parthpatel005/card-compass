@@ -1,6 +1,6 @@
 # Quickstart Guide
 
-Get the credit card management app running locally in a few steps.
+Get Card Compass running locally in a few steps.
 
 ---
 
@@ -57,7 +57,7 @@ npm -v    # should print 10.x.x or higher
 
 ```bash
 git clone <your-repo-url>
-cd credit-card-management
+cd card-compass
 npm install
 ```
 

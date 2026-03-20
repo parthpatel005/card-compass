@@ -379,7 +379,7 @@ The agent has read access to live data to answer questions:
 ## File Structure (Target)
 
 ```
-credit-card-management/
+card-compass/
 ├── CLAUDE.md
 ├── package.json
 ├── vite.config.ts
